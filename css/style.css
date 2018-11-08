@@ -8,3 +8,6 @@
   left: 0px;
   z-index: 1;
 }
+.navbar-collapse {
+	padding-top: 30px;
+}
