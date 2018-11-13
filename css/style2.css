@@ -16,3 +16,10 @@
 .bg-btn {
 	background-color: #878787;
 }
+
+#portfolio {
+	background-color: transparent;
+}
+.text-email {
+	color: black !important;
+}
